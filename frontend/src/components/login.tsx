@@ -9,7 +9,7 @@ export default function Login() {
         <body class="h-full">
         ```
       */}
-      <div className="block w-full rounded-md 
+      <div className="block w-full 
 border border-gray-600 
 bg-gray-800 
 px-3 py-1.5 
